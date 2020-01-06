@@ -41,8 +41,8 @@ public class TwilioCalls {
      *
      */
     
-    public static final String ACCOUNT_SID = "ACc8fdd96ff9507fe3e4c0e9add4fab253";
-    public static final String AUTH_TOKEN = "c8e8189b28632bf5630573b0cc1b0ea1";
+    public static final String ACCOUNT_SID = "__________YOUR_SID_ACCOUT__________";
+    public static final String AUTH_TOKEN = "__________YOUR_TOKEN__________";
     
     
     public static void main(String[] args) throws Exception {
